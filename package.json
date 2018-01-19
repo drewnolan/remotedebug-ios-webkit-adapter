@@ -39,6 +39,6 @@
     "typescript": "2.2.2"
   },
   "optionalDependencies": {
-    "vs-libimobile": "^0.0.5"
+    "drewnolan/vs-libimobile": "^0.0.6"
   }
 }
